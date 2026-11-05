@@ -1,2 +1,2 @@
 # GameLeader
-Trabajo de proyecto Filip, David, Gabriel
+Trabajo de proyecto Filip, David, Guillermo
