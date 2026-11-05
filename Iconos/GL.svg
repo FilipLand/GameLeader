@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60mm"
+   height="60mm"
+   viewBox="0 0 60 60"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="GL.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.9041807"
+     inkscape:cx="96.068402"
+     inkscape:cy="92.108594"
+     inkscape:window-width="960"
+     inkscape:window-height="1017"
+     inkscape:window-x="952"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g7" />
+  <defs
+     id="defs1">
+    <rect
+       x="272.69638"
+       y="410.26199"
+       width="23.373976"
+       height="16.800047"
+       id="rect8" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g10"
+       inkscape:label="Logo">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.265141"
+         id="rect10"
+         width="51.838345"
+         height="47.209999"
+         x="3.1963129"
+         y="5.6887689"
+         ry="10.50611" />
+      <path
+         d="m 16.869255,11.701611 c -5.152201,0 -9.2996912,4.148008 -9.2996912,9.300208 V 39.93658 c 0,5.152201 4.1474902,9.300208 9.2996912,9.300208 h 25.494567 c 5.152201,0 9.300208,-4.148007 9.300208,-9.300208 V 25.634094 H 50.150427 L 31.950505,25.769486 13.26689,25.80566 32.272449,22.075655 51.30953,18.441768 c -1.106679,-3.899404 -4.682189,-6.740157 -8.945708,-6.740157 z"
+         style="fill:#1e1e1e;stroke-width:0.264583"
+         id="path1" />
+      <g
+         id="g4"
+         transform="matrix(0.5927671,0,0,0.69834574,-12.872985,-63.225251)"
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:label="MANDO">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.315216"
+           id="rect3"
+           width="40.085888"
+           height="15.123313"
+           x="51.929447"
+           y="135.01656"
+           ry="7.5616565" />
+        <ellipse
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.424329"
+           id="path3"
+           cx="57.577911"
+           cy="144.65706"
+           rx="12.025766"
+           ry="9.6570549" />
+        <ellipse
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.424329"
+           id="path3-8"
+           cx="84.980934"
+           cy="144.65706"
+           rx="12.025766"
+           ry="9.6570549" />
+        <g
+           id="g8"
+           transform="matrix(0.48807488,0,0,0.41428581,14.195737,98.059924)"
+           style="fill:#ffffff;fill-opacity:1"
+           inkscape:label="start y inicio">
+          <rect
+             style="fill:#9a9999;fill-opacity:1;stroke-width:0.0914014"
+             id="rect7"
+             width="7.6554933"
+             height="2.4479773"
+             x="1.8089341"
+             y="158.81413"
+             ry="1.0890807"
+             transform="rotate(-42.252997)" />
+          <rect
+             style="fill:#9a9999;fill-opacity:1;stroke-width:0.0914014"
+             id="rect7-1"
+             width="7.6554933"
+             height="2.4479773"
+             x="7.0906978"
+             y="163.74878"
+             ry="1.0890807"
+             transform="rotate(-42.252997)" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.58575093,0,0,0.48778931,-93.98682,-64.283223)"
+           id="text8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);display:inline;fill:#262626;fill-opacity:1"
+           inkscape:label="titulo"><tspan
+             x="272.69727"
+             y="421.93189"
+             id="tspan2">GL</tspan></text>
+      </g>
+      <g
+         id="g6"
+         transform="matrix(1.2419716,0,0,1,-39.701219,-33.440522)"
+         inkscape:label="BOTONES">
+        <ellipse
+           style="fill:#338000;fill-opacity:1;stroke-width:0.0737362"
+           id="path5"
+           cx="59.855518"
+           cy="71.146553"
+           rx="1.5487727"
+           ry="1.6757213" />
+        <ellipse
+           style="fill:#000080;fill-opacity:1;stroke-width:0.0737362"
+           id="path5-2"
+           cx="62.548771"
+           cy="67.925194"
+           rx="1.5487727"
+           ry="1.6757213" />
+        <ellipse
+           style="fill:#ff0000;fill-opacity:1;stroke-width:0.0737362"
+           id="path5-1"
+           cx="65.041153"
+           cy="71.146553"
+           rx="1.5487727"
+           ry="1.6757213" />
+        <ellipse
+           style="fill:#ffcc00;fill-opacity:1;stroke-width:0.0737362"
+           id="path5-1-2"
+           cx="62.548771"
+           cy="74.467247"
+           rx="1.5487727"
+           ry="1.6757213" />
+      </g>
+      <g
+         id="g7"
+         transform="matrix(0.22685735,0,0,0.23287669,-5.8059727,14.044351)"
+         style="fill:#707070;fill-opacity:1"
+         inkscape:label="CRUZ">
+        <rect
+           style="fill:#707070;fill-opacity:1;stroke-width:0.264583"
+           id="rect6"
+           width="11.296932"
+           height="26.602453"
+           x="111.69387"
+           y="87.915642"
+           ry="3.1526024" />
+        <rect
+           style="fill:#707070;fill-opacity:1;stroke-width:0.264583"
+           id="rect6-6"
+           width="11.296932"
+           height="26.602453"
+           x="95.149033"
+           y="-131.69229"
+           ry="3.1526024"
+           transform="rotate(90.33166)" />
+      </g>
+    </g>
+  </g>
+</svg>
